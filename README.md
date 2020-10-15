@@ -8,6 +8,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ---
 
+### Support
+<a href="https://www.buymeacoffee.com/maksimabramchuk"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
+
+---
+
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/TfjWb6Y/d">
@@ -162,7 +167,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
-* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
+* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/blogcplusplus-interview-questions/)
 
 ### C
 
